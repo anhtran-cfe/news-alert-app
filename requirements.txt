@@ -2,3 +2,4 @@ streamlit
 pandas
 newspaper3k
 nltk
+lxml
